@@ -7,7 +7,7 @@
 
 <meta property="og:title" content="🔥 Tênis New Balance 550 com SUPER DESCONTO">
 <meta property="og:description" content="Clique e aproveite essa oferta antes que acabe!">
-<meta property="og:image" content="COLE_AQUI_O_LINK_DA_IMAGEM_DO_PRODUTO">
+<meta property="og:image" content="COLE_AQUI_O_LINK_DA_IMAGEM_DO_PRODUTOUXDPVW-RSES">
 <meta property="og:url" content="https://SEUUSUARIO.github.io/ofertas">
 <meta property="og:type" content="website">
 
