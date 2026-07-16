@@ -11,8 +11,8 @@
 <meta property="og:url" content="https://SEUUSUARIO.github.io/ofertas">
 <meta property="og:type" content="website">
 
-<meta http-equiv="refresh" content="0;url=COLE_AQUI_SEU_LINK_DE_AFILIADA">
-
+<meta http-equiv="refresh" content="0;url= ">
+https://www.mercadolivre.com.br/social/marciarpinto2008
 </head>
 
 <body>
