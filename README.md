@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 
-<title>🔥 Oferta Imperdível | Achadinhos da Má</title>
+🔥 Oferta Imperdível | Achadinhos da Má
 
 <meta property="og:title" content="🔥 Cesto para roupas 40l dobrável SUPER DESCONTO">
 <meta property="og:description" content="Clique e aproveite essa oferta antes que acabe!">
