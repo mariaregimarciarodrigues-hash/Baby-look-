@@ -7,7 +7,7 @@
 
 <meta property="og:title" content="🔥 Prateleira Estilo Industrial SUPER DESCONTO">
 <meta property="og:description" content="Clique e aproveite essa oferta antes que acabe!">
-<meta property="og:image" content  https:/. https://meli.la/14AZQj5 PVW-RSES">
+<meta property="og:image" content=" https:/. https://meli.la/14AZQj5 PVW-RSES">
 <meta property="og:url" content="https://SEUUSUARIO.github.io/ofertas">
 <meta property="og:type" content="website">
 
