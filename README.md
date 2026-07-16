@@ -5,9 +5,9 @@
 
 <title>🔥 Oferta Imperdível | Achadinhos da Má</title>
 
-<meta property="og:title" content="🔥 Tênis New Balance 550 com SUPER DESCONTO">
+<meta property="og:title" content="🔥 Cesto para roupas 40l dobrável SUPER DESCONTO">
 <meta property="og:description" content="Clique e aproveite essa oferta antes que acabe!">
-<meta property="og:image" content="COLE_AQUI_O_LINK_DA_IMAGEM_DO_PRODUTOUXDPVW-RSES">
+<meta property="og:image" content=" https://www.mercadolivre.com.br/social/marciarpinto2008UXDPVW-RSES">
 <meta property="og:url" content="https://SEUUSUARIO.github.io/ofertas">
 <meta property="og:type" content="website">
 
