@@ -5,9 +5,9 @@
 
 🔥 Oferta Imperdível | Achadinhos da Má
 
-<meta property="og:title" content="🔥 Cesto para roupas 40l dobrável SUPER DESCONTO">
+<meta property="og:title" content="🔥 Prateleira Estilo Industrial SUPER DESCONTO">
 <meta property="og:description" content="Clique e aproveite essa oferta antes que acabe!">
-<meta property="og:image" content=" https://meli.la/14AZQj5PVW-RSES">
+<meta property="og:image" content  https://meli.la/14AZQj5 PVW-RSES">
 <meta property="og:url" content="https://SEUUSUARIO.github.io/ofertas">
 <meta property="og:type" content="website">
 
